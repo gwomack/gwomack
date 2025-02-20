@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm [Daniel Veronese]
 - 🌟 Welcome to my GitHub profile 🌟
-- 🔭 I’m currently working on an [AI powered meal planner project](https://github.com/gwomack)
+- 🔭 I’m currently working on an [AI powered meal planner project](https://github.com/gwomack/aimealplanner)
 - 🌱 I’m currently learning [Flutter, Firebase, Supabase, Nodejs, Nextjs]
 - 💼 Open to [Freelance Work, Full-Time Opportunities, Collaborations]
 - 💬 Ask me about [Webdev, PHP, Laravel, SaaS, Docker]
